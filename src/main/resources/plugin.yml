@@ -1,0 +1,7 @@
+name: auctionplugin
+main: EasyAuction
+version: 1.0.0
+depend:
+  - customeconomy
+commands:
+  "경매":

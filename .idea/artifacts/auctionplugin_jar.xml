@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="auctionplugin:jar">
+    <output-path>$USER_HOME$/OneDrive/바탕 화면/server/plugins</output-path>
+    <root id="archive" name="auctionplugin.jar">
+      <element id="module-output" name="auctionplugin" />
+    </root>
+  </artifact>
+</component>
